@@ -8,3 +8,6 @@ h2 {
 h3 {
     color: orange;
 }
+ul {
+    list-style: circle;
+}
